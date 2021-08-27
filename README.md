@@ -1,6 +1,7 @@
 <div align="center"> 
   
 # DEEP LEARNING APPROACH TO FORECASTING ELECTRICITY PRICE FROM LOAD DATA
+#### (APLICAREA INVĂȚĂRII PROFUNDE LA PROGNOZA PREȚULUI ELECTRICITĂȚII  DIN DATE DE ÎNCĂRCARE)
   
 ## VLADIMIR BABUSHKIN, GHEORGHE CĂPĂȚÂNĂ
   
@@ -14,7 +15,7 @@ The accurate forecasting of electricity price and load is essential for maintain
 </div> 
  
 
-### APLICAREA INVĂȚĂRII PROFUNDE LA PROGNOZA PREȚULUI ELECTRICITĂȚII  DIN DATE DE ÎNCĂRCARE
+
 <div align="justify"> 
 Previziunea exactă a prețului și încărcării energiei electrice este esențială pentru menținerea unei interacțiuni stabile între cerere și ofertă pe piața dinamică a energiei electrice. În articol este descris un model profund bazat pe rețeaua neuronală convoluțională pentru prognozele viitoare ale prețului energiei electrice din datele istorice ale prețului / tarifelor și valorile prognozate ale tarifelor. Modelul a fost testat pe datele pentru New York și New South Wales și a demonstrat o precizie ridicată a predicțiilor pentru ambele seturi de date.
 </div>  
