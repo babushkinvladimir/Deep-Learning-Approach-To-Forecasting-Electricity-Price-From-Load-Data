@@ -22,5 +22,5 @@ The accurate forecasting of electricity price and load is essential for maintain
 Previziunea exactă a prețului și încărcării energiei electrice este esențială pentru menținerea unei interacțiuni stabile între cerere și ofertă pe piața dinamică a energiei electrice. În articol este descris un model profund bazat pe rețeaua neuronală convoluțională pentru prognozele viitoare ale prețului energiei electrice din datele istorice ale prețului / tarifelor și valorile prognozate ale tarifelor. Modelul a fost testat pe datele pentru New York și New South Wales și a demonstrat o precizie ridicată a predicțiilor pentru ambele seturi de date.
 </div>  
   
-#### The version with the correct figures can be found [here](https://github.com/babushkinvladimir/Forecasting-electricity-price-from-electical-load-data/blob/main/Babushkin_Capatana_png_images_ro_v3.pdf)
+#### The version with the correct figures can be found [here](https://github.com/babushkinvladimir/Deep-Learning-Approach-To-Forecasting-Electricity-Price-From-Load-Data/blob/main/Babushkin_Capatana_20210716_pdf_images.pdf)
 
